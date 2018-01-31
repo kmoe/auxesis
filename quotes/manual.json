@@ -1,0 +1,33 @@
+{
+  "description": "quotes manually compiled by katy",
+  "entities": [
+    {
+      "quote": "I have done a terrible thing, I have postulated a particle that cannot be detected.",
+      "author": "Wolfgang Pauli",
+      "date": "1930",
+      "source": "as quoted by Frederick Reines, in his 'Foreword' to Spaceship Neutrino (1992) by Christine Sutton, p. xi",
+      "public": true
+    },
+    {
+      "quote": "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents.",
+      "quote_long": "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the light into the peace and safety of a new dark age.",
+      "author": "H. P. Lovecraft",
+      "date": "1926",
+      "source": "The Call of Cthulhu",
+      "public": true
+    },
+    {
+      "quote": "But there isn't a theorem in the world which couldn't be falsified by monsters.",
+      "author": "Imre Lakatos",
+      "date": "1976",
+      "source": "Proofs and Refutations",
+      "public": true
+    },
+    {
+      "quote": "You know what they say the modern version of Pascal's Wager is? Sucking up to as many Transhumanists as possible, just in case one of them turns into God.",
+      "author": "Greg Egan",
+      "source": "Crystal Nights, Interzone #215",
+      "date": "2008"
+    }
+  ]
+ }
